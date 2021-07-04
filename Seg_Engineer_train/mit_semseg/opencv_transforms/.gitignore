@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints
+/dist/
+/*.egg-info
+*.pyc
+/build/
+
+tests/testing_directory.txt
+.idea
